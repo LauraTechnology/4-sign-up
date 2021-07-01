@@ -1,3 +1,17 @@
 body {
+}
+
+main {
+}
+
+
+main > div:first-child {
     background-color: yellow;
 }
+
+main > div:last-child {
+    background-color: violet;
+}
+
+
+
