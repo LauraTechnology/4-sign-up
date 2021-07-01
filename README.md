@@ -24,6 +24,7 @@ Design: [Sign-up](https://cdn.discordapp.com/attachments/850245533838868480/8502
 ## Authors
 
 [Rimantas](https://github.com/belauzas
+
 [Rimantas](https://github.com/belauzas)
 
 
