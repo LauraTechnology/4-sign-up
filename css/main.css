@@ -1,18 +1,13 @@
 body {
-    background-color: #44b2c8;
 }
 
 main {
 }
 
-
-main > div:first-child {
+.kairysis-stulpelis {
     background-color: yellow;
 }
 
-main > div:last-child {
+.desinysis-stulpelis {
     background-color: violet;
 }
-
-
-
