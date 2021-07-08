@@ -1,13 +1,26 @@
 body {
 }
 
-main {
+.container {
+    display: inline-block;
+    width: 800px;
 }
 
-.kairysis-stulpelis {
+.left-column {
+    width: 40%;
+    float: left;
     background-color: yellow;
 }
 
-.desinysis-stulpelis {
+.right-column {
+    width: 60%;
+    float: left;
     background-color: violet;
+}
+
+.button {
+    display: inline-block;
+    background-color: red;
+    padding: 20px;
+    color: white
 }
