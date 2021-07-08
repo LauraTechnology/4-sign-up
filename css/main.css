@@ -1,26 +1,28 @@
 body {
+    background-color: #30BBD8 ;
 }
 
 .container {
     display: inline-block;
     width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
 }
 
 .left-column {
     width: 40%;
     float: left;
-    background-color: yellow;
+    background-color: #0253AC;
+    color: #fff;
+}
+
+a {
+    color: #fff;
 }
 
 .right-column {
     width: 60%;
     float: left;
-    background-color: violet;
+    background-color: #fff;
 }
 
-.button {
-    display: inline-block;
-    background-color: red;
-    padding: 20px;
-    color: white
-}
