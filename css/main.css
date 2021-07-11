@@ -12,10 +12,10 @@ body {
 .left-column {
     width: 40%;
     float: left;
+    padding: 40px;
+    padding-bottom: 20px;
     background-color: #0253AC;
-    color: #fff;
-    box-sizing:border-box;
-    padding: 20px;
+    color: white;
 }
 
 h1 {
@@ -29,6 +29,7 @@ a {
 .right-column {
     width: 60%;
     float: left;
+    padding: 60px;
     background-color: #fff;
 }
 
