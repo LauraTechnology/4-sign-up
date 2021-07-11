@@ -1,17 +1,35 @@
 body {
+    background-color: #30BBD8 ;
 }
 
-main {
+.container {
+    display: inline-block;
+    width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
 }
 
-
-main > div:first-child {
-    background-color: yellow;
+.left-column {
+    width: 40%;
+    float: left;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: #0253AC;
+    color: white;
 }
 
-main > div:last-child {
-    background-color: violet;
+h1 {
+   margin: 0 
 }
 
+a {
+    color: #fff;
+}
 
+.right-column {
+    width: 60%;
+    float: left;
+    padding: 60px;
+    background-color: #fff;
+}
 
