@@ -19,10 +19,13 @@ body {
 }
 
 h1 {
-   margin: 0 
 }
 
-a {
+.bottom-texts {
+
+}
+
+.bottom-texts > a {
     color: #fff;
 }
 
