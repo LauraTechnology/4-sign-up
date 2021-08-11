@@ -41,9 +41,9 @@ h1 {
 }
 
 form {
-    
+
 }
 
-.form-row {
+form > .form-row {
 
 }
