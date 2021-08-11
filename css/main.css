@@ -44,6 +44,6 @@ form {
 
 }
 
-form > .form-row {
+form > .form-row > label {
 
 }
