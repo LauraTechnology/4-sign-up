@@ -40,12 +40,16 @@ form {
   
 form > .form-row > button {
   font-size: 20px;
-  line-height: 25px;
+  line-height: 26px;
   text-transform: capitalize;
   padding: 5px;
   padding-left: 30px;
   padding-right: 30px;
-  border-radius: 17.5px; /* pusė line-height + padding'ai t.y. 25+5+5/2 */
+  border-radius: 20px; /* pusė line-height + padding + border t.y. 25+5+5/2 */
+  background-color: #2348d4;
+  color: #fff;
+  border-color: darkblue;
+
 }
 
   form > .form-row > span {
