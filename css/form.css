@@ -29,6 +29,7 @@ form {
     border: none;
     border-bottom: 1px solid #ccc;
   }
+
   form > .form-row > input:focus-visible {
     outline: 2px solid #777;
   }
@@ -37,6 +38,14 @@ form {
     color: #777;
   }
   
+form > .form-row > button {
+  font-size: 20px;
+  text-transform: capitalize;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
   form > .form-row > span {
     display: inline-block;
     line-height: 26px;
