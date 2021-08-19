@@ -45,11 +45,11 @@ form > .form-row > button {
   padding: 5px;
   padding-left: 30px;
   padding-right: 30px;
-  border-radius: 20px; /* pusė line-height + padding + border t.y. 25+5+5/2 */
+  border-radius: 18px; /* pusė line-height + padding + border t.y. 25+5+5/2 */
   background: rgb(0,101,219);
   background: linear-gradient(55deg, rgba(0,101,219,1) 0%, rgba(0,102,217,1) 100%);
   color: #fff;
-  border-color: darkblue;
+  border: none;
 
 }
 
