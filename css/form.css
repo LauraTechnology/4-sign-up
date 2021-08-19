@@ -53,6 +53,12 @@ form > .form-row > button {
 
 }
 
+form > .form-row > button:hover {
+  cursor: pointer;
+  background: rgba(0,102,217,1);
+  background: linear-gradient(55deg, rgba(0,102,217,1) 0%, rgba(0,101,219,1) 100%);
+}
+
   form > .form-row > span {
     display: inline-block;
     line-height: 26px;
@@ -72,5 +78,7 @@ form > .form-row > button {
   }
   
   form > .form-row > a:hover {
+
     text-decoration: underline;
+  
   }
