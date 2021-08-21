@@ -31,7 +31,7 @@ form {
   }
 
   form > .form-row > input:focus-visible {
-    outline: 1px solid red;
+    outline: 3px solid rgb(6, 191, 197);
   }
   
 form > .form-row > button {
